@@ -1,4 +1,5 @@
-[![Docker Automated build](https://img.shields.io/docker/automated/aksum/docker-debian8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/aksum/docker-debian8-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/aksum/docker-debian8-ansible/)
+[![Docker Build Status](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/aksum/docker-debian8-ansible/)
 
 docker-debian8-ansible
 ======================
